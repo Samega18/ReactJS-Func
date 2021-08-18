@@ -1,0 +1,13 @@
+Obs: Não precisa mais disso
+
+Coloca no arquivo "index.html" na pasta "public" do Projeto react:
+
+<link rel="stylesheet" href="style.css" />
+
+Coloca dentro do componente <head><head/>
+
+Depois cria um arquivo "CSS" com o nome "style.css" e adiciona:
+
+html{
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,4 @@
+Para utilizar os icones, coloque em "index.html" dentro do componente <head/> 
+o seguinte código:
+
+<script src="https://kit.fontawesome.com/291c5cc73f.js" crossorigin="anonymous"></script>
